@@ -1,0 +1,85 @@
+﻿body {
+    
+  
+}
+
+.head2 {
+    height:auto;
+    width:auto;
+    background-image: url('pictures/rajs.jpg');
+    background-size: 100% 100%;
+}
+
+.head2_h2 {
+    text-transform: uppercase;
+    font-family:Algerian;
+    font-size:60px;
+}
+.text{
+    font-family:Algerian;
+    font-size:38px;
+    color:#ff6a00;
+  
+}.center{
+     margin-left:auto;
+     margin-right:auto;
+ }
+.section1{
+    height:auto;
+    width:auto;
+}
+.s2 {
+    height: auto;
+    width:auto;
+}
+
+.footer {
+    height: 200px;
+    width: auto;
+    background-color: #000000;
+}
+.head{
+    height:auto;
+    width:auto;
+    background-color:#000000;
+    color:white;
+}
+.head1{
+    height:auto;
+    width:auto;
+    color:#ff6a00;
+    text-align:center;
+}
+
+.header{
+    height:auto;
+    width:auto;
+   background-size: 100% 100%;
+ 
+}
+.header_h1{
+    padding-bottom:250px;
+    text-transform:uppercase;
+    color:#000000;
+   font-family:Algerian;
+   font-size:60px;
+}
+.img{
+    height:auto;
+    width:auto;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+   }
+.trans{
+    opacity:0.9;
+}
+.trans:hover{
+    opacity:0.7;
+}
+.gap {
+    height:auto;
+    width:auto;
+}
